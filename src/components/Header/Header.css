@@ -1,0 +1,19 @@
+.Header{
+    height: 80px;
+    background-color:#1C2B35 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+.Header a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+.Header a:hover{
+    color: orange;
+}
